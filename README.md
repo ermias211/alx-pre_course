@@ -1,1 +1,1 @@
-It is alx precourse git project
+This is alx- pre_course git poject
