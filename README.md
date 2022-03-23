@@ -1,1 +1,1 @@
-This is alx- pre_course git poject
+My first readme
